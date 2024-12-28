@@ -9,6 +9,8 @@ To suggest a new term or update an existing one, you can either [open an issue](
 
 The rest of this guide will talk about how to contribute directly.
 
+Note: changes made to this repository are not immediately reflected in the bot as it is currently a manual process.
+
 ---
 
 ## **How the Glossary Works**
