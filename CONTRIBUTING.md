@@ -5,7 +5,7 @@ Thank you for your interest in contributing to the Pythia Glossary! There are a 
 1. Suggesting terms or revisions
 2. Making direct edits
 
-To suggest a new term or update an existing one, you can either [open an issue](https://github.com/nykotar/pythia-glossary/issues/new) or join the conversation on our Discord.
+To suggest a new term or update an existing one, you can either [open an issue](https://github.com/nykotar/pythia-glossary/issues/new) or join the conversation on our Discord. If an issue already exists for your term and you want to work on it, please ask to be assigned so that everyone can know the term is being worked on.
 
 The rest of this guide will talk about how to contribute directly.
 
