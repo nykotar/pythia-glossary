@@ -1,4 +1,4 @@
-name: 'Yamllint GitHub Actions'
+name: 'Yamllint'
 on:
   - pull_request
 jobs:
@@ -8,7 +8,7 @@ jobs:
     steps:
       - name: 'Checkout'
         uses: actions/checkout@master
-      - name: 'Yamllint'
+      - name: 'Run lint'
         uses: karancode/yamllint-github-action@master
         with:
           yamllint_file_or_dir: './terms'
