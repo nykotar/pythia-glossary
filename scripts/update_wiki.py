@@ -3,10 +3,6 @@ import re
 import yaml
 import praw
 
-# REMOVE BEFORE DEPLOY
-from dotenv import load_dotenv
-load_dotenv()
-
 TERMS_DIRECTORY = './terms'
 
 def get_yaml_files():
