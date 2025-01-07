@@ -39,6 +39,7 @@ def build_glossary(terms):
     last_letter = ''
     page = []
     page.append('# Glossary  ')
+    page.append('This glossary is a work in progress. many terms are missing and the definitions may not be accurate. If you would like to contribute, please see the [contribution guidelines](https://github.com/nykotar/pythia-glossary).  ')
     page.append('## Terms  ')
     for term in term_keys:
         if term[0].upper() != last_letter:
